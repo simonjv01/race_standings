@@ -35,6 +35,11 @@ const standingsList = [
     countryCode: 'fi',
     points: 18,
   ),
+    StandingsEntry(
+    name: 'Test 8',
+    countryCode: 'fi',
+    points: 18,
+  ),
 ];
 
 /// Fake data source for the results list
